@@ -2,7 +2,7 @@
 ## Jun
 ### 0601 
 > Math - Add Simulation  
-> [note](/0601_math_add-simulation.md)
+> [note link](/0601_math_add-simulation.md)
 - [x] 67. Add Binary
 - [x] 415. Add Strings *
 - [x] 2. Add Two Numbers
