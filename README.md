@@ -1,5 +1,11 @@
 # summer-23-LeetCode Track
 ## Jun
+
+### 0602
+> Math
+- [ ] 9. Palindrome Number
+- [ ] 
+
 ### 0601 
 > Math - Add Simulation  
 > [note link](/0601_math_add-simulation.md)
