@@ -1,4 +1,5 @@
 # 0601
+> Math - Add Simulation
  ## 67. Add Binary
  - Bit-by-bit Computation
  ```py
@@ -135,4 +136,35 @@ class Solution:
         
         # time: O(n)
         # space: O(1)
+```
+
+## 43. Multiply Strings *
+```py
+class Solution:
+    def multiply(self, num1: str, num2: str) -> str:
+        if num1 == "0" or num2 == "0":
+            return "0"
+
+        n1 = len(num1)
+        n2 = len(num2)
+        res = [0] * (n1 + n2)
+
+        for i in range(n1 - 1, -1, -1):
+            for j in range(n2 - 1, -1, -1):
+                product = int(num1[i]) * int(num2[j])
+                cur_sum = product + res[i + j + 1]
+                
+                digit = cur_sum % 10
+                carry = cur_sum // 10
+
+                res[i + j + 1] = digit
+                res[i + j] += carry
+        
+        while res[0] == 0:
+            res.pop(0)
+
+        return ''.join(str(digit) for digit in res)
+
+        # time: O(n1 * n2 + n1 * (n1 + n2) + n1 + n2)
+        # space: O(n1 + n2)
 ```
