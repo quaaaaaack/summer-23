@@ -1,6 +1,15 @@
 # summer-23-LeetCode Track
 ## Jun
 
+### 0603
+> Math & String  
+> [note-link](/0603.md)
+- [ ] 13. Roman to Integer
+- [ ] 12. Integer to Roman
+- [ ] 8. String to Integer (atoi)
+- [ ] 179. Largest Number
+- [ ] 2384. Largest Palindromic Number
+
 ### 0602
 > Math - Reverse, Pow & Sqrt  
 > [note link](/0602_math_reverse-pow-sqrt.md)
