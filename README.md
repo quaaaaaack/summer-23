@@ -2,9 +2,13 @@
 ## Jun
 
 ### 0602
-> Math
+> Math - Reverse, Pow & Sqrt  
+> [note link](/0602.md)
+- [ ] 7. Reverse Integer
 - [ ] 9. Palindrome Number
-- [ ] 
+- [ ] 50. Pow(x, n)
+- [ ] 69. Sqrt(x) *
+- [ ] 633. Sum of Square Numbers *
 
 ### 0601 
 > Math - Add Simulation  
