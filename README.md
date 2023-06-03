@@ -1,5 +1,15 @@
 # summer-23-LeetCode Track
 ## Jun
+
+### 0602
+> Math - Reverse, Pow & Sqrt  
+> [note link](/0602_math_reverse-pow-sqrt.md)
+- [x] 7. Reverse Integer
+- [x] 9. Palindrome Number
+- [x] 50. Pow(x, n)
+- [x] 69. Sqrt(x) *
+- [x] 633. Sum of Square Numbers *
+
 ### 0601 
 > Math - Add Simulation  
 > [note link](/0601_math_add-simulation.md)
