@@ -3,12 +3,10 @@
 
 ### 0605
 > Math & String  
-> [note-link](/0603.md)
-- [ ] 13. Roman to Integer
-- [ ] 12. Integer to Roman
-- [ ] 8. String to Integer (atoi)
-- [ ] 179. Largest Number
-- [ ] 2384. Largest Palindromic Number
+> [note-link](/0605.md)
+- [x] 13. Roman to Integer
+- [x] 12. Integer to Roman
+- [x] 8. String to Integer (atoi)
 
 ### 0602
 > Math - Reverse, Pow & Sqrt  
