@@ -1,6 +1,13 @@
 # summer-23-LeetCode Track
 ## Jun
 
+### 0605
+> Math & String  
+> [note-link](/0605.md)
+- [x] 13. Roman to Integer
+- [x] 12. Integer to Roman
+- [x] 8. String to Integer (atoi)
+
 ### 0602
 > Math - Reverse, Pow & Sqrt  
 > [note link](/0602_math_reverse-pow-sqrt.md)
