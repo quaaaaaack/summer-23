@@ -2,8 +2,10 @@
 ## Jun
 
 ### 0606
-- [ ] 179. Largest Number
-- [ ] 2384. Largest Palindromic Number
+> Math & String  
+> [note-link](/0606.md)
+- [x] 179. Largest Number
+- [x] 2384. Largest Palindromic Number
 
 ### 0605
 > Math & String  
