@@ -1,6 +1,10 @@
 # summer-23-LeetCode Track
 ## Jun
 
+### 0606
+- [ ] 179. Largest Number
+- [ ] 2384. Largest Palindromic Number
+
 ### 0605
 > Math & String  
 > [note-link](/0605.md)
