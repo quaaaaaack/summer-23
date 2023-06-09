@@ -21,8 +21,8 @@
 - [x] 2384. Largest Palindromic Number
 
 ### 0605
-> Math & String  
-> [note-link](/0605.md)
+> Math - String, Map  
+> [note-link](/0605_math_string-map.md)
 - [x] 13. Roman to Integer
 - [x] 12. Integer to Roman
 - [x] 8. String to Integer (atoi)
