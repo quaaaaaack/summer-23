@@ -3,6 +3,10 @@
 
 
 ### 0608
+> Bit - lsb, msb  
+> [note-link](/0608_bit_lsb-msb.md)
+- [x] 191. Number of 1 Bits
+- [x] 338. Counting Bits
 
 ### 0607
 > Bit - XOR  
