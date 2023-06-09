@@ -12,7 +12,7 @@
 > Bit - XOR  
 > [note-link](/0607_bit_xor.md)
 - [x] 136. Single Number
-- [x] 190. Reverse Bits
+- [x] 268. Missing Number
 
 ### 0606
 > Math & String  
