@@ -1,5 +1,5 @@
 # 0605
-> Math - string, map
+> Math - String, Map
 ## 13. Roman to Integer
 ```py
 class Solution:
