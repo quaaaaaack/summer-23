@@ -3,7 +3,7 @@
 
 ### 0606
 > Math & String  
-> [note-link](/0606.md)
+> [note-link](/0606_math_string-sort.md)
 - [x] 179. Largest Number
 - [x] 2384. Largest Palindromic Number
 
