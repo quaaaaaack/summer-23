@@ -1,5 +1,5 @@
 # 0606
-> Math - String, Sort
+> Math - String, Greedy
 ## 179. Largest Number
 ```py
 class Solution:
