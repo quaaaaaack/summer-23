@@ -2,8 +2,8 @@
 ## Jun
 
 ### 0606
-> Math & String  
-> [note-link](/0606_math_string-sort.md)
+> Math - String, Greedy
+> [note-link](/0606_math_string-greedy.md)
 - [x] 179. Largest Number
 - [x] 2384. Largest Palindromic Number
 
