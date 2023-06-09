@@ -3,6 +3,11 @@
 
 
 ### 0608
+> Bit - left shift, right shift
+> [note-link](/0608_bit_left_right_shift.md)
+- [ ] 191. Number of 1 Bits
+- [ ] 338. Counting Bits
+- [ ] 190. Reverse Bits
 
 ### 0607
 > Bit - XOR  
