@@ -1,6 +1,14 @@
 # summer-23-LeetCode Track
 ## Jun
 
+
+### 0608
+
+### 0607
+> Bit - XOR
+- [ ] 136. Single Number
+- [ ] 190. Reverse Bits
+
 ### 0606
 > Math & String  
 > [note-link](/0606.md)
